@@ -66,8 +66,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Hans Thompson | Alaska, GIS, QC/QA, fisheries, utility demand, molecular biology, networks |  |  | [![profile for Hans at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackexchange.com/users/flair/1429111.png "profile for Hans at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/1351927/cylondude) | [&mdash;](https://github.com/hansthompson) |  |  |
 |David Gohel | Java, Shiny, Life science. packages: `ReporteRs` and `rtable` | [&mdash;](http://davidgohel.github.io) | david.gohel@ardata.fr | [![profile for David at Stack Overflow](http://stackexchange.com/users/flair/3315962.png)](http://stackoverflow.com/users/3315962/david-gohel) | [G](http://github.com/davidgohel) |  |  
 | Matthew Montero | actuary, loss development, Shiny, visualization|   | m.mkmontero13@gmail.com|   |   |   |   |
+|David Stephens| shiny, geospatial, image analysis, data viz, GIS |[&mdash;](http://davesteps.com/)|davesteps@gmail.com| |[&mdash;](https://github.com/davesteps)| |[@davesteps](https://twitter.com/davesteps)|
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
 
 ------------
 
